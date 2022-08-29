@@ -1,0 +1,4 @@
+#Wed Aug 03 16:06:48 GMT 2022
+base.0=/Users/mac/Documents/flutter_projects/whatssapuiclone/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
